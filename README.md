@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/rodrigohdiaz)
 
 
-- 🔭 I’m currently working on my personal blog
+- 🔭 I’m currently working on my personal blog on Gatsby.js
 - 🌱 I’m currently learning Gatsby.js and Three.js
 - 👯 I’m looking to collaborate on front end projects
 - 🤔 I’m looking for help with my 'draw' app 
