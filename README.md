@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that Australians declared a war to Emus in 1932, it was called "The Great Emu War" which... humans lost
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=rodrigohdiaz&theme=<THEME_NAME>" />
+
