@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/rodrigohdiaz)
 
 
-- 🔭 I’m currently working on my personal blog on Gatsby.js
+- 🔭 I’m currently working on my personal blog on Gatsby.js and another with React/react-three/fiber
 - 🌱 I’m currently learning Gatsby.js and Three.js
 - 👯 I’m looking to collaborate on front end projects
-- 🤔 I’m looking for help with my 'draw' app 
+- 🤔 I’m looking for help with my 'draw' app with the web sockets
 - 💬 Ask me about anything
 - 📫 How to reach me: rodrigohdiaz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that Australians declared a war to Emus in 1932, it was called "The Great Emu War" which... humans lost
+- 😅 Most of the repositories that I have here are from my learning and practicing, think of it as my sketch pad.
 
 
 <a href="https://github.com/rodrigohdiaz/rodrigohdiaz">
